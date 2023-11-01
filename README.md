@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @natzgg
 - 👀 I’m interested in Software Development in general
-- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me:
 - You can contact me @natzcunanan@gmail.com
 
